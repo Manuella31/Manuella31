@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou a Manuella! 👋
 
-<!--
-**Manuella31/Manuella31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora Front-End em formação
 
-Here are some ideas to get you started:
+🎓 Técnica em Desenvolvimento de Sistemas pela ETEC Antônio Devisate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias que utilizo:
+
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- PHP
+- Banco de Dados
+- GitHub
+- Figma
+
+📚 Atualmente estudando:
+
+- JavaScript
+- Desenvolvimento Front-End
+- UX/UI Design
+
+🏆 Destaques:
+
+- Participação no programa de mentoria DevMentors (Unimar 2025)
+- 2º lugar - Profissional Insight Day (Unimar 2024)
+- 5º lugar - Hackathon Agrotech Connect (Unimar 2023)
+
+🎯 Objetivo:
+
+Busco minha primeira oportunidade como Desenvolvedora Front-End Júnior para aplicar meus conhecimentos, adquirir experiência prática e continuar evoluindo na área de tecnologia.
+
+📫 Contato:
+
+- LinkedIn: www.linkedin.com/in/manuella-queiroz-de-oliveira-8b9485342
+- E-mail: manuellaq02@gmail.com
